@@ -1,6 +1,0 @@
-docker-compose up -d   - Go to docker-compose.yaml location and run this.
-docker-compose ps   - This will tell the running instances.
-docker-compose restart control-center - Using this we can restsrt the control cneter and access the Dashboard.
-docker-compose down - to stop the running services
-
-docker exec -it <Container name> /bin/sh
